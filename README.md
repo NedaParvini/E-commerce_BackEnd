@@ -46,19 +46,25 @@ Mock-Up
 
 ## Video:
 
+
 GET: ![Screenshot](GET.gif) 
 
 
+
 GET by ID: ![Screenshot](GETONE.gif) 
+
+
 
 
 POST, PUT, DELETE: ![Screenshot](POST-PUT-DELETE.gif) 
 
 Link to vidos: 
 
-GET :[(https://youtu.be/949pHvx1vZI)]
-GET by ID: [(https://youtu.be/yG2ZVHB7y-I)]
-POST, PUT, DELETE: [(https://youtu.be/VFZjPGj6LhY)]
+[GET] :(https://youtu.be/949pHvx1vZI)
+
+[GET by ID]: (https://youtu.be/yG2ZVHB7y-I)
+
+[POST, PUT, DELETE]: (https://youtu.be/VFZjPGj6LhY)
 
 
 
