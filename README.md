@@ -26,7 +26,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 JavaScript, Node.js, MySQL, npm packages (Inquirer, mysql), Express.js, Insomnia
 
-## Video:
+## Videos:
 
 *GET: 
 
