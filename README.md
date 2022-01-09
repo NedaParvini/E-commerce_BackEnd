@@ -27,36 +27,32 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
-Mock-Up
-
 
 ## Features:
 
 *JavaScript
-
 *Node.js
-
 *MySQL
-
 *npm packages (Inquirer, mysql)
-
-*Express.js
-
+*Express.js, 
 * Insomnia
 
 ## Video:
 
+GET: 
 
-GET: ![Screenshot](GET.gif) 
-
-
-
-GET by ID: ![Screenshot](GETONE.gif) 
+![Screenshot](GET.gif) 
 
 
+GET by ID:
+
+![Screenshot](GETONE.gif) 
 
 
-POST, PUT, DELETE: ![Screenshot](POST-PUT-DELETE.gif) 
+POST, PUT, DELETE:
+
+![Screenshot](POST-PUT-DELETE.gif) 
+
 
 Link to vidos: 
 
