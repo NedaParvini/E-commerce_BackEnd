@@ -5,13 +5,7 @@ Build the back end for an e-commerce site
 
 ## Installation:
 
-Creating the Repository, Clone it.
-
-Node.js is required to run.
-
-npm install to install the required npm package.
-
-SQL2 installation
+Creating the Repository, Clone it. Node.js is required to run. npm install to install the required npm package and SQL2 installation
 
 
 ## Acceptance Criteria:
@@ -30,26 +24,21 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Features:
 
-*JavaScript
-*Node.js
-*MySQL
-*npm packages (Inquirer, mysql)
-*Express.js, 
-* Insomnia
+JavaScript, Node.js, MySQL, npm packages (Inquirer, mysql), Express.js, Insomnia
 
 ## Video:
 
-GET: 
+*GET: 
 
 ![Screenshot](GET.gif) 
 
 
-GET by ID:
+*GET by ID:
 
 ![Screenshot](GETONE.gif) 
 
 
-POST, PUT, DELETE:
+*POST, PUT, DELETE:
 
 ![Screenshot](POST-PUT-DELETE.gif) 
 
@@ -61,6 +50,3 @@ Link to vidos:
 [GET by ID]: (https://youtu.be/yG2ZVHB7y-I)
 
 [POST, PUT, DELETE]: (https://youtu.be/VFZjPGj6LhY)
-
-
-
